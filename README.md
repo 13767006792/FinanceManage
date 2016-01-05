@@ -1,0 +1,2 @@
+# FinanceManage
+FinanceManage every day
